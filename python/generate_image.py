@@ -24,4 +24,6 @@ print(f"{image_dir=}")
 
 # TODO add option to move an image from this directory to our selected favorites to show for the world
 
+# OK NOW things are getting interesting. Probably don't want to call in the other function but let's see.
+
 
