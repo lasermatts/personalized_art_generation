@@ -4,7 +4,7 @@ import requests  # used to download images
 import os  # used to access filepaths
 from PIL import Image  # used to print and edit images
 # imports for the homebrew
-import pandas # happiness is a warm CSV
+import pandas as pd # happiness is a warm CSV
 
 # we've got to mess at the OS level to play with API keys
 openai.api_key = os.environ.get("OPENAI_API_KEY")
